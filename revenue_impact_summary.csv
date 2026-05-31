@@ -1,0 +1,12 @@
+Metric,Value
+Total Customers Analysed,"7,043"
+Churned Customers,"1,869"
+Overall Churn Rate,26.5%
+Monthly Revenue Lost (churned),"$139,130.85"
+Annual Revenue Lost (churned),"$1,669,570.20"
+High Risk Active Customers,296
+Monthly Revenue at Risk,"$23,386.40"
+Annual Revenue at Risk,"$280,636.80"
+Estimated Customers Saveable (30%),89
+Net Recoverable Revenue (annual),"$81,231.04"
+ROI of Intervention,2744%
