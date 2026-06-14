@@ -14,7 +14,7 @@ This is not just an EDA exercise. Every finding is tied to a **business outcome 
  
 ## 📊 Dashboard Preview
  
-<img width="1063" height="738" alt="Screenshot 2026-06-01 043055" src="https://github.com/user-attachments/assets/25198852-115f-4214-9a43-d7b112639831" />
+<img width="1162" height="653" alt="image" src="https://github.com/user-attachments/assets/35d5e12e-f51c-4a35-93cb-a3bfad485ebe" />
 
  
 **Live filters:** Use the Contract Type slicer to dynamically explore churn patterns across customer segments.
