@@ -78,7 +78,35 @@ Net Recoverable Revenue        = Revenue at Risk × 30% retention − $10 × cus
  
 ### Step 5 — Power BI Dashboard
 Built an interactive 4-visual dashboard with 3 KPI cards and a contract type slicer.
+---
+## 📡 Customer Churn Intelligence Dashboard
+
+An interactive Streamlit web app built on the IBM Telco Customer Churn dataset (7,032 customers).
+Two pages — a **Risk Dashboard** and a **Revenue Simulator** — that turn churn data into business decisions.
+
+**Live Demo:** https://customer-churn-analysis-929.streamlit.app/
+
+---
  
+## What's Inside
+ 
+### Page 1 — Risk Dashboard
+- KPIs: Churn rate, annual revenue lost, high-risk count, recoverable revenue/month
+- Risk tier distribution (donut chart)
+- Churn rate by contract type (bar chart)
+- Churn rate by tenure band (line chart)
+- Monthly charges: churned vs retained (box plot)
+- Top 50 high-risk active customers by revenue at stake (filterable table)
+- Churn driver heatmap across 9 service features
+### Page 2 — Revenue Simulator
+- Current state snapshot (annual revenue lost, avg lost LTV, high-risk pool)
+- Intervention parameter controls (target segment, retention %, cost/customer, LTV horizon)
+- Live ROI calculation with net benefit
+- ROI vs retention rate sensitivity chart
+- Revenue saved by LTV horizon (bar + cost line)
+- Cost sensitivity table (ROI matrix across cost × retention rate)
+- Automated business recommendation (Strong Buy / Recommended / Marginal / Not Viable)
+
 ---
  
 ## 📌 Business Recommendations
