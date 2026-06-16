@@ -40,7 +40,8 @@ section[data-testid="stSidebar"] .stMarkdown p {
 /* Main background */
 .main .block-container {
     background: #0D1117;
-    padding-bottom: 3rem;
+    padding-top: 6rem !important;
+    padding-bottom: 3rem !important;
 }
 
 /* Page title */
